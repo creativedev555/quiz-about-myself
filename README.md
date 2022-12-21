@@ -18,7 +18,7 @@ For every right answer you will be given one point.
 
 Let's see how well my friends know me!
 
-## [You can play the quiz directly here](https://replit.com/@PrabhatBadoni1/general-knowledge-quiz?embed=true)
+## [You can play the quiz directly here](https://replit.com/@PrabhatBadoni1/end-game?embed=true)
 
 ## CLI APP LOOK:
 
